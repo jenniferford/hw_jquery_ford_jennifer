@@ -1,5 +1,3 @@
-# URL
+##[GitHub Link](https://github.com/jenniferford/hw_jquery_ford_jennifer/tree/master)
 
-# Resources
-*
-# hw_jquery_ford_jennifer
+##[CSS color guides](http://www.w3schools.com/cssref/css_colornames.asp)
